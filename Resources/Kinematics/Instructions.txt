@@ -1,0 +1,3 @@
+Implement parse_urdf, jacobian, forwardKinematics and inverse_kinematics functions in robot_arm.py
+You can verify your algorithm by running appropriate test_.py files
+If you have implemeted everything correctly, all test files should print 'True' in the console.
