@@ -1,0 +1,6 @@
+Jacobian
+https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian/v/jacobian-prerequisite-knowledge
+
+Kinematics
+https://medium.com/unity3danimation/overview-of-inverse-kinematics-9769a43ba956
+https://robotacademy.net.au/masterclass/inverse-kinematics-and-robot-motion/?lesson=256
